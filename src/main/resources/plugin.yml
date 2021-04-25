@@ -1,0 +1,4 @@
+name: NymphWarDiscordBot
+version: ${project.version}
+main: com.dochsoft.fullmoon.nymphwardiscordbot.NymphWarDiscordBot
+description: doch_
