@@ -12,7 +12,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 import javax.security.auth.login.LoginException;
 
 public final class NymphWarDiscordBot extends JavaPlugin {
-    private static String botToken = "NzUxNzIyODU3MDMzMzY3Njc4.X1NOdw.Y66UDnxJxY7Yhpffv5bdHIozSKA";
+    private static String botToken = null;
     public static JDA api;
     BukkitEvent event = new BukkitEvent();
 
